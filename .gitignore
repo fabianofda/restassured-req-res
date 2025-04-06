@@ -1,0 +1,10 @@
+```plaintext
+# Ignorar pastas específicas
+.idea/
+target/
+.vscode/
+.intellij/
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
