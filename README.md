@@ -17,8 +17,6 @@ Este caso de Teste E2E tem como objetivo verificar as funcionalidades da API "Re
 A estrutura do projeto é organizada da seguinte forma:
 
 - src
-    - main/java/com/example
-    
     - test/java/com/example
         - domain
             - User.java
